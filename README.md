@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SourajeetOfficial
+- 👋 Hi, I’m Sourajeet Sahoo
 - 👀 I’m interested in Web Development, HCI, AIMl, IoT
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on MERN
